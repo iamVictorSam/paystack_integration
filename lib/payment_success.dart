@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:paystack_app/main.dart';
+import 'package:paystack_app/checkout.dart';
 
 class PaymentSuccess extends StatelessWidget {
   const PaymentSuccess({super.key, required this.successMessage});
